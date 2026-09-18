@@ -1,0 +1,16 @@
+*.mat
+!paModel.mat
+*.asv
+*.m~
+*.log
+*.fig
+*.zip
+*.rar
+*.mex*
+slprj/
+codegen/
+output/
+tmp/
+__pycache__/
+.DS_Store
+Thumbs.db
